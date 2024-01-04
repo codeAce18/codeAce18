@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeAce18&label=Profile%20views&color=0e75b6&style=flat" alt="codeAce18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Tech_Mogul" target="blank"><img src="https://img.shields.io/twitter/follow/tech_mogul?logo=twitter&style=for-the-badge" alt="tech_mogul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Tech_Mogul" target="blank"><img src="https://img.shields.io/twitter/follow/Tech_Mogul?logo=twitter&style=for-the-badge" alt="Tech_Mogul" /></a> </p>
 
 - 🔭 I’m currently working on [A Restaurant website](https://gerich-restaurant-app-one.vercel.app/)
 
