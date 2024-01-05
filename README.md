@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/JoelOluwatofun1" target="blank"><img src="https://img.shields.io/twitter/follow/JoelOluwatofun1?logo=twitter&style=for-the-badge" alt="JoelOluwatofun1" /></a> </p>
 
-- 🔭 I’m currently working on [A Restaurant website](https://gerich-restaurant-app-one.vercel.app/)
+- 🔭 I’m currently working on [A Plant Store App](https://green-store-vert.vercel.app/)
 
 - 🌱 I’m currently learning **Reactjs, Typescript**
 
