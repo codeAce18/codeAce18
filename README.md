@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taiwo Joel </h1>
+<h1 align="center">Hey there 👋, I'm Taiwo Joel </h1>
 <h3 align="center">A FrontEnd Engineer , from Nigeria 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeAce18&label=Profile%20views&color=0e75b6&style=flat" alt="codeAce18" /> </p>
@@ -17,9 +17,9 @@
 
 
 ### ⚡ Fun facts
+* Aspiring to be a badass sofware engineer
+* Love building stuffs
 * Learning to speak French
-* Love building products
-* Wish to be a god
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
