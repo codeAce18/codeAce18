@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/JoelOluwatofun1" target="_blank"><img align="center" width="25" height="25" src="https://img.icons8.com/ios/25/twitterx--v2.png" alt="Twitter: _codeAce18" /></a>
+<a href="https://x.com/MrHuncho_dev" target="_blank"><img align="center" width="25" height="25" src="https://img.icons8.com/ios/25/twitterx--v2.png" alt="Twitter: _codeAce18" /></a>
 &nbsp;
 <a href="mailto:oluwatofunmijoel765@gmail.com" target="_blank"><img align="center" width="25" height="25" src="https://img.icons8.com/color/25/gmail-new.png" alt="Email: oluwatofunmijoel765@gmail.com" /></a>
 </p>
